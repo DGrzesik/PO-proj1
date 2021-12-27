@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ics.oop.GrassFieldTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-09T10:29:40" hostname="DESKTOP-T6T3MG6" time="0.024">
+  <properties/>
+  <testcase name="objectAtTest()" classname="agh.ics.oop.GrassFieldTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
